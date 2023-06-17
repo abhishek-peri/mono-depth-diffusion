@@ -1,0 +1,13 @@
+{
+    "configurations": [
+        
+        {
+            "name": "Python: /home/captainlevi/Documents/Coursework/SP23/ECE285_Deep_Generative_Models/project/codes/latent-diffusion-2/diffusion_depth_2/main.py",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "justMyCode": true,
+            "args": ["--base", "/home/captainlevi/Documents/Coursework/SP23/ECE285_Deep_Generative_Models/project/codes/latent-diffusion-2/diffusion_depth_2/configs/latent-diffusion/depth-ldm-vq-4-semantic.yaml", "--train", "--gpus", "0,"]
+        }
+    ]
+}
